@@ -216,6 +216,10 @@ In your Google Cloud Console > Cloud Scheduler
 
 ----------
 
+## Roadmap
+
+- Automate registration of first-time visitors to Firestore via Siri
+
 > **_NOTE:_**  This project is for personal automation. Ensure usage complies with the parking provider's terms of service.
 
 
